@@ -1,8 +1,11 @@
 # cava-gruvbox
-Gruvbox Color Config for the Cava bar spectrum audio visualizer for terminal (karlstav/cava)
+Gruvbox Color Config for the [cava](https://github.com/karlstav/cava) terminal-based bar spectrum audio visualizer.
 
-The following will provide a soothing gruvbox themed spectrum analyzer.
+Colors are sourced from the [gruvbox](https://github.com/morhetz/gruvbox) project color scheme. It's gruuuvy!
 
+I use the dark theme color pallete.
+
+To produce a nice soothing gruvbox themed spectrum analyzer, use the following in your cava config file (usually in ~./config/cava). 
 ```
 [color]
 background = '#32302f'
