@@ -5,7 +5,7 @@ Colors are sourced from the [gruvbox](https://github.com/morhetz/gruvbox) projec
 
 I use the dark theme color pallete.
 
-To produce a nice soothing gruvbox themed spectrum analyzer, use the following in your cava config file (usually in ~./config/cava). 
+To produce a soothing gruvbox themed spectrum analyzer, use the following in your cava config file (usually in ~./config/cava). 
 ```
 [color]
 background = '#32302f'
